@@ -13,7 +13,7 @@ Click on view Raw in this link to see the video of the working App.
 ## Screenshot
 
 <a href="https://ibb.co/bgd5930"><img src="https://i.ibb.co/bgd5930/video-demo-ss.png" alt="video-demo-ss" border="0"></a>
-## Code
+# Code
 
 https://github.com/anushagarg2929/video-player-app/blob/master/app/src/main/java/com/example/videodemo/MainActivity.java
 ## Xml code
